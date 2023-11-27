@@ -103,6 +103,12 @@ img {
     display: block;
 }
 
+.home_img img {
+    position: relative;
+    max-width: 150%;
+    left: -100px;
+}
+
 
 /* CUSTOM CSS CLASSES */
 
